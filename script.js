@@ -44,3 +44,11 @@
 //     sum = value1 + value2;
 //     result.textContent = 'Result' + ': ' + sum;
 // })
+
+// MODAL OPENING
+// let clickBtn = document.getElementById('clickBtn');
+// let modal = document.getElementById('modal');
+
+// clickBtn.addEventListener('click', () => {
+//     modal.style.transform = 'scaleX(1)';
+// })
